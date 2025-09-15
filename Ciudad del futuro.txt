@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>
+Ciudad Futurista.html
+</title>
+
+<body>
+<center><h1>Ciudad Futurista</h1></center>
+<p><a href="Index.html">Volver al inicio</a></p>
+<table border>
+<tr>
+<th>IMAGENES</th>
+</tr>
+<tr>
+<td>
+<img src="https://thumbs.dreamstime.com/b/la-ciudad-del-futuro-con-los-coches-voladores-inteligente-veh%C3%ADculos-280982012.jpg" alt="esta es una imagen de una Ciudad Futurista" height="300" width="300"/>
+</td>
+</tr>
+</body>
+</html>
